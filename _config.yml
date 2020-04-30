@@ -1,0 +1,10 @@
+remote_theme: Memerator/Jekyll-Template
+
+# Title of the site.
+# Shows up in navbar and embeds
+title: Memerator
+
+# Nav Bar elements.
+nav:
+- title: <i class="fas fa-home"></i> Home
+  url: /
