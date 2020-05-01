@@ -8,5 +8,15 @@ title: Memerator
 nav:
 - title: <i class="fas fa-home"></i> Home
   url: /
+- title: Skyblock
+  url: skyblock
+- title: SkyGrid
+  url: skygrid
+- title: CaveBlock
+  url: caveblock
+- title: AcidIsland
+  url: acidisland
+- title: OneBlock
+  url: oneblock
 
 url: https://memerator.github.io/Skyblock
