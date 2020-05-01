@@ -9,14 +9,14 @@ nav:
 - title: <i class="fas fa-home"></i> Home
   url: /
 - title: Skyblock
-  url: skyblock
+  url: /skyblock
 - title: SkyGrid
-  url: skygrid
+  url: /skygrid
 - title: CaveBlock
-  url: caveblock
+  url: /caveblock
 - title: AcidIsland
-  url: acidisland
+  url: /acidisland
 - title: OneBlock
-  url: oneblock
+  url: /oneblock
 
 url: https://memerator.github.io/Skyblock
